@@ -23,7 +23,7 @@ https://github.com/yashn1998/Hand_protection_alert_system/assets/102281447/41d6d
 ### :raising_hand: Project Workflow 
 
 Our pipeline consists of three steps:
-  1. An AI model which detect all human hands in the live video at workshop.
+  1. An AI model which detect all human hands in the live video.
   2. An AI model which predict if that hands is out of safety line.
   3. The output is **ALARM** to alert worker and shutting down a machine if hamd crosses **Boundary line**.
   
