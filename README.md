@@ -14,6 +14,12 @@
 ### **Architechture**
 ![shredder](https://user-images.githubusercontent.com/75604769/177889835-3dd92603-1340-43ce-9683-48fe7a5dee6b.png)
 
+### **Demo video**
+
+
+https://github.com/yashn1998/Hand_protection_alert_system/assets/102281447/41d6dbfe-cf9b-4416-bbfb-322079d6eca6
+
+
 ### :raising_hand: Project Workflow 
 
 Our pipeline consists of three steps:
