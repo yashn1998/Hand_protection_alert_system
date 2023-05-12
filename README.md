@@ -1,4 +1,4 @@
-# Shredder-Machine
+# Hand Protection alert system
 ### Table of Content
   * [Overview](#overview)
   * [Architechture](#architechture)
