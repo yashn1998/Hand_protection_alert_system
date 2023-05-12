@@ -1,4 +1,4 @@
-# Hand Protection alert system
+# Hand Protection Alert System
 ### Table of Content
   * [Overview](#overview)
   * [Architechture](#architechture)
