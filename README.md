@@ -26,7 +26,4 @@ Our pipeline consists of three steps:
   2. An AI model which predict if that hands is out of safety line.
   3. The output is **ALARM** to alert worker and shutting down a machine if hamd crosses **Boundary line**.
   
-### 🚀 Model's performance
-  - **Faster RCNN** give unrealistic **MAP** value of 85 so I choose to finalized my model by training it on **SSD MobileNetV2 which give me a MAP in between 70.**
-  - First training with **3500** images gives the **MAP** of **60** so I increased the data to **7500. and it gives MAP of 85 in Faster RCNN and 70 on SSD MobileNetV2.**
 
